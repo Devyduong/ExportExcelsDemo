@@ -1,0 +1,10 @@
+C:\Users\DevyDuong\source\repos\qldb\qldb\bin\Debug\qldb.exe.config
+C:\Users\DevyDuong\source\repos\qldb\qldb\bin\Debug\qldb.exe
+C:\Users\DevyDuong\source\repos\qldb\qldb\bin\Debug\qldb.pdb
+C:\Users\DevyDuong\source\repos\qldb\qldb\obj\Debug\qldb.csprojAssemblyReference.cache
+C:\Users\DevyDuong\source\repos\qldb\qldb\obj\Debug\qldb.Form1.resources
+C:\Users\DevyDuong\source\repos\qldb\qldb\obj\Debug\qldb.Properties.Resources.resources
+C:\Users\DevyDuong\source\repos\qldb\qldb\obj\Debug\qldb.csproj.GenerateResource.cache
+C:\Users\DevyDuong\source\repos\qldb\qldb\obj\Debug\qldb.csproj.CoreCompileInputs.cache
+C:\Users\DevyDuong\source\repos\qldb\qldb\obj\Debug\qldb.exe
+C:\Users\DevyDuong\source\repos\qldb\qldb\obj\Debug\qldb.pdb
